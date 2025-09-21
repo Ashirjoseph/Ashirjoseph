@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashir Joseph</h1>
-<h3 align="center">A passionat Graphic designer</h3>
+<h3 align="center">A passionate Graphic designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&label=Profile%20views&color=0e75b6&style=flat" alt="[YourUsername]" />
+  <img src="https://komarev.com/ghpvc/?username=[Ashir Joseph]&label=Profile%20views&color=0e75b6&style=flat" alt="[Ashirjoseph]" />
 </p>
 
 ---
