@@ -6,7 +6,8 @@
 </p>
 
 ---
-
+### 👩‍💻 My Portfolio
+[![Portfolio Banner](https://your-image-url.com/banner.png)](https://ashirjosephportfolio.my.canva.site/)
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **IoT enabled Smart Helmet**
