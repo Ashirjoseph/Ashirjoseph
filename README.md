@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashir Joseph</h1>
-<h3 align="center">A passionate Graphic designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[Ashir Joseph]&label=Profile%20views&color=0e75b6&style=flat" alt="[Ashirjoseph]" />
@@ -7,7 +6,7 @@
 
 ---
 ### 👩‍💻 My Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://ashirjosephportfolio.my.canva.site/)
+[![Portfolio](https://i.pinimg.com/1200x/71/7a/4c/717a4c985ebaffc88f41d8c69a3ecd6f.jpg)](https://ashirjoseph.github.io/Portfolio/)
 
 ### 👩‍💻 About Me
 
