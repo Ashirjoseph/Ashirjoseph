@@ -6,7 +6,7 @@
 
 ---
 ### 👩‍💻 My Portfolio
-[![Portfolio](https://i.pinimg.com/1200x/71/7a/4c/717a4c985ebaffc88f41d8c69a3ecd6f.jpg)](https://ashirjoseph.github.io/Portfolio/)
+[![Portfolio](https://imgs.search.brave.com/Yo7eYq6mhYtGEfJWZz6wJPPAUNfZ9ytZE0185bCNlT0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5p/Lmljb25zY291dC5j/b20vaWxsdXN0cmF0/aW9uL3ByZW1pdW0v/dGh1bWIvZGVzaWdu/ZXItcG9ydGZvbGlv/LWlsbHVzdHJhdGlv/bi1zdmctZG93bmxv/YWQtcG5nLTcxNTUx/NjcucG5n)](https://ashirjoseph.github.io/Portfolio/)
 
 ### 👩‍💻 About Me
 
